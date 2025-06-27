@@ -2,11 +2,6 @@
 
 🎓 **Aplicação web educacional com jogos interativos e assistente virtual com IA**
 
-## 🌐 Acesso Online
-
-**URL Permanente:** https://pyoqcafn.manus.space
-
-A aplicação está implantada permanentemente e pode ser acessada diretamente pelo link acima.
 
 ## ✨ Funcionalidades Implementadas
 
@@ -57,10 +52,6 @@ A aplicação está implantada permanentemente e pode ser acessada diretamente p
 - **Firebase Firestore** - Banco de dados NoSQL
 - **Firebase SDK Web** - Integração completa
 
-### Deploy
-- **Manus Space** - Hospedagem permanente
-- **Build otimizado** para produção
-- **CDN global** para performance
 
 ## 🎯 Arquitetura do Projeto
 
@@ -221,5 +212,5 @@ Para configurar o Firebase:
 
 **Desenvolvido com ❤️ para transformar a educação através da tecnologia**
 
-*Acesse agora: https://pyoqcafn.manus.space*
+
 
