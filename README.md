@@ -1,6 +1,6 @@
-# IAPrender Web - Plataforma Educacional
+# IAPrender Web - Plataforma educacional com suporte emocional
 
-🎓 **Aplicação web educacional com jogos interativos e assistente virtual com IA**
+🎓 **Aplicação web educacional com jogos interativos e assistente psicológico**
 
 
 ## ✨ Funcionalidades Implementadas
